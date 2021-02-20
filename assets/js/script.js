@@ -1,0 +1,1 @@
+alert('Você entrou no javascript usando o BASE_URL')
